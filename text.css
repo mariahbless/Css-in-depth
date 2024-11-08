@@ -1,0 +1,43 @@
+body{
+    background-color: darkseagreen;
+ }
+
+ h1{
+    color: black;
+    text-align: left;
+    text-decoration: dotted;
+ }
+
+ li{
+    color: blue;
+    text-align: center;
+    letter-spacing: 2px;
+    }
+ h2{
+    text-decoration-line: underline;
+    text-decoration-color: cornflowerblue;
+    text-decoration-style: double;
+    text-align: center;
+    line-height: 1.0px; }
+ p{
+    color: chocolate;
+    text-indent: 40px;
+    text-shadow: 1px 1px brown;
+ }
+ .position{
+    position: relative;
+    position: sticky;
+    background-color: burlywood;
+    top: 20px;
+    border: 2px solid chocolate;
+}
+.text{
+    position:relative;
+    top: 20px;
+    left: 20px;
+    color: chartreuse;
+    font-size: 25px;
+    font-weight: bold;
+    text-overflow: clip;
+    overflow: visible;
+}
